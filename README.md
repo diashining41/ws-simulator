@@ -4,19 +4,19 @@
 
 AI와 대전하거나 한 기기에서 둘이 대전하고, 덱을 만들고, 첫 패 확률을 계산할 수 있습니다.
 
-## 내려받기 (최신: 0.3)
+## 내려받기 (최신: 0.5)
 
 | 기기 | 파일 | 필요한 것 |
 | --- | --- | --- |
-| PC | [WS_Simulator_0.3_PC.zip](https://github.com/diashining41/ws-simulator/releases/download/v0.3/WS_Simulator_0.3_PC.zip) | Windows 10 · 11 (64비트) |
-| 모바일 | [WS_Simulator_0.3_Android.zip](https://github.com/diashining41/ws-simulator/releases/download/v0.3/WS_Simulator_0.3_Android.zip) | Android 8.0 이상, ARM64 |
-| 모바일 (APK만) | [WSSimulator_0.3.apk](https://github.com/diashining41/ws-simulator/releases/download/v0.3/WSSimulator_0.3.apk) | 위와 같음 |
+| PC | [WS_Simulator_0.5_PC.zip](https://github.com/diashining41/ws-simulator/releases/download/v0.5/WS_Simulator_0.5_PC.zip) | Windows 10 · 11 (64비트) |
+| 모바일 | [WS_Simulator_0.5_Android.zip](https://github.com/diashining41/ws-simulator/releases/download/v0.5/WS_Simulator_0.5_Android.zip) | Android 8.0 이상, ARM64 |
+| 모바일 (APK만) | [WSSimulator_0.5.apk](https://github.com/diashining41/ws-simulator/releases/download/v0.5/WSSimulator_0.5.apk) | 위와 같음 |
 
 ## 설치
 
 **PC**: 압축을 모두 푼 뒤 `WSSimulator.exe`를 실행합니다. "Windows의 PC 보호" 창이 뜨면 **추가 정보 → 실행**을 누릅니다(서명하지 않은 개인 제작 프로그램이라 나오는 안내입니다). 폴더 안의 `CardContent`, `CardContentExtra`는 카드 데이터라서 지우면 안 됩니다.
 
-**안드로이드**: 압축을 풀고 `WSSimulator_0.3.apk`를 눌러 설치합니다. "출처를 알 수 없는 앱" 설치를 허용하고, Play 프로텍트 경고가 나오면 **무시하고 설치**를 누릅니다.
+**안드로이드**: 압축을 풀고 `WSSimulator_0.5.apk`를 눌러 설치합니다. "출처를 알 수 없는 앱" 설치를 허용하고, Play 프로텍트 경고가 나오면 **무시하고 설치**를 누릅니다.
 
 카드 그림은 덱 에디터에서 처음 볼 때 인터넷으로 받아 저장합니다(1장 약 25KB). 내장 AI 덱 20개의 그림은 처음부터 들어 있습니다.
 
